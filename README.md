@@ -1,2 +1,2 @@
 # Comparing, Contrasting, and Predicting Commercial Flight Characteristics
- balabala meow
+Before the COVID-19 pandemic, the commercial aviation industry was thriving. Between 2016 and 2019, air travel saw steady and impressive growth, with airlines adding new aircraft and opening routes to keep up with passenger demand (Mutzabaugh, 2019; Morris, 2018). This momentum came to an abrupt halt when the pandemic struck, forcing airlines to rethink their operations. In the years since, the industry has adapted to a new reality—shifting strategies, optimizing fleets, and redesigning routes to meet changing market needs and passenger preferences. 
